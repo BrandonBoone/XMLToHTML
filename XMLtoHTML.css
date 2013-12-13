@@ -1,0 +1,29 @@
+.node{
+    font-family:"Courier New", Courier, monospace;    
+}
+
+.node > .node{
+    padding-left:25px;
+    display:block;
+}
+
+.tag{
+    color:#0000FF; 
+}
+
+.element, .attribute{
+    color:#9C0000;
+}
+
+.attribute{
+    color:#540099; 
+}
+
+.comment{
+    color:green;   
+}
+
+.value{
+    color:#000;   
+    font-weight:bold;    
+}
