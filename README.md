@@ -9,6 +9,8 @@ Converts XML to formatted HTML. Requires jQuery as a dependency.
 Example Usage
 ---
 
+<kbd>**[Live Demo](http://jsfiddle.net/DVaQX/3/)**</kbd>
+
 **HTML**
 
     <script type='text/html' id='myXML'>
