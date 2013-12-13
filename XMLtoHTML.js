@@ -65,5 +65,3 @@
     };
 
 })(jQuery);
-
-$('body').html(XMLFormatter($('#myXML').html())); 
