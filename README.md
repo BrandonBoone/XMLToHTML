@@ -6,7 +6,7 @@ Converts XML to formatted HTML. Requires jQuery as a dependency.
 Methods
 ---
 
-####`XMLtoHTML(xml)`**
+####`XMLtoHTML(xml)`
 
 *Parameters*
 
