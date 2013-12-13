@@ -13,11 +13,11 @@ Methods
 
 *Parameters*
 
-	`xml {string}` A string of well formed XML
+	`xml {string}` The well formed XML to be formatted
 
 *Returns*
 
-	`{string}` A string of HTML markup that represents the XML for viewing in a browser. 
+	`{string}` HTML markup that represents the XML for viewing in a browser. 
 
 
 Example Usage
