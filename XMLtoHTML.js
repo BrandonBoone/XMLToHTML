@@ -1,5 +1,5 @@
 ;(function($, undefined){
-    var XMLtoHTML = new function(){
+    window.XMLtoHTML = new function(){
     
         return function(xml){
             var sb = []; 
