@@ -6,15 +6,15 @@ Converts XML to formatted HTML. Requires jQuery as a dependency.
 Methods
 ---
 
-###`XMLtoHTML(xml)`
+**`XMLtoHTML(xml)`**
 
 *Parameters*
 
->`xml {string}` The well formed XML to be formatted
+`xml {string}` The well formed XML to be formatted
 
 *Returns*
 
->`{string}` HTML markup that represents the XML for viewing in a browser. 
+`{string}` HTML markup that represents the XML for viewing in a browser. 
 
 
 Example Usage
