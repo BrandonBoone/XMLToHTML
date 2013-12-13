@@ -12,9 +12,11 @@ Methods
 **`XMLtoHTML(xml)`**
 
 *Parameters*
+
 	`xml {string}` A string of well formed XML
 
 *Returns*
+
 	`{string}` A string of HTML markup that represents the XML for viewing in a browser. 
 
 
