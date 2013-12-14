@@ -24,7 +24,8 @@ Example Usage
 
 **HTML**
 
-    <script type='text/html' id='myXML'>
+```HTML
+<script type='text/html' id='myXML'>
     <topNode>
         <!-- My comment-->
         <item myattribute='test' anotherone='hello world'>
@@ -56,8 +57,11 @@ Example Usage
             </nestedNode>
         </item>
     </topNode>
-    </script>
+</script>
+```
 
 **JS**
 
+```JavaScript
     $('body').html(XMLtoHTML($('#myXML').html())); 
+```
