@@ -20,6 +20,22 @@ Methods
 Example Usage
 ---
 
+####Example 1
+
+<kbd>**[Live Demo](http://jsfiddle.net/RCy8D/1/)**</kbd>
+
+**JS**
+
+```JavaScript
+
+$('body').html(
+    XMLtoHTML('<topnode><!--Comment--><innernode attribute="attribute" /><othernode>value</othernode></topnode>')
+); 
+
+```
+
+####Example 2
+
 <kbd>**[Live Demo](http://jsfiddle.net/DVaQX/3/)**</kbd>
 
 **HTML**
