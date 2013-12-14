@@ -24,7 +24,7 @@ Example Usage
 
 **HTML**
 
-```HTML
+```XML
 <script type='text/html' id='myXML'>
     <topNode>
         <!-- My comment-->
