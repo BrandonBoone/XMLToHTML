@@ -1,12 +1,12 @@
-Overview
----
+# Overview
+
 
 Converts XML to formatted HTML. Requires jQuery as a dependency. 
 
-Methods
----
+## Methods
 
-####`XMLtoHTML(xml)`
+
+### `XMLtoHTML(xml)`
 
 *Parameters*
 
@@ -17,10 +17,10 @@ Methods
 `{string}` HTML markup that represents the XML for viewing in a browser. 
 
 
-Example Usage
----
+## Example Usage
 
-####Example 1
+
+### Example 1
 
 <kbd>**[Live Demo](http://jsfiddle.net/RCy8D/1/)**</kbd>
 
@@ -34,7 +34,7 @@ $('body').html(
 
 ```
 
-####Example 2
+### Example 2
 
 <kbd>**[Live Demo](http://jsfiddle.net/DVaQX/3/)**</kbd>
 
